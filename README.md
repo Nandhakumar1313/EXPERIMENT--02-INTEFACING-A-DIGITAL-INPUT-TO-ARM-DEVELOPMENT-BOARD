@@ -90,11 +90,11 @@ void push_button()
 
 ## Output  :
 ### LED IS OFF:
-<img height=100% width=50% src="https://github.com/Nandhakumar1313/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120230694/3869f04a-cd18-4cd2-9833-c16be2ec475d">
+<img height=50% width=50% src="https://github.com/Nandhakumar1313/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120230694/3869f04a-cd18-4cd2-9833-c16be2ec475d">
 
 
 ### LED IS ON:
- <img height=100% width=50% src="https://github.com/Nandhakumar1313/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120230694/94898ff9-5df5-477e-bd85-a5aed7e29e5d">
+ <img height=50% width=50% src="https://github.com/Nandhakumar1313/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120230694/94898ff9-5df5-477e-bd85-a5aed7e29e5d">
 
  
 ## Result :
